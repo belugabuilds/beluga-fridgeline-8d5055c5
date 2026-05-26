@@ -1,0 +1,324 @@
+[
+  {
+    "id": "1",
+    "title": "Classic Vegetable Stir-Fry",
+    "description": "A quick and colorful stir-fry perfect for using up vegetables before they go bad.",
+    "ingredients": ["broccoli", "carrots", "bell pepper", "onion", "garlic", "soy sauce", "oil", "ginger"],
+    "tags": ["vegetable", "vegetables", "broccoli", "carrot", "bell pepper", "onion", "quick", "dairy-free"],
+    "time": "15 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Chop all vegetables into bite-sized pieces.",
+      "Heat oil in a large pan or wok over high heat.",
+      "Add garlic and ginger, stir for 30 seconds.",
+      "Add harder vegetables (carrots, broccoli) first and stir-fry 3 minutes.",
+      "Add remaining vegetables and stir-fry 2 more minutes.",
+      "Drizzle soy sauce and toss to coat. Serve over rice."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Scrambled Eggs with Cheese",
+    "description": "Creamy scrambled eggs — great when eggs and cheese are close to expiry.",
+    "ingredients": ["eggs", "cheese", "butter", "milk", "salt", "pepper"],
+    "tags": ["egg", "eggs", "cheese", "dairy", "breakfast", "quick"],
+    "time": "10 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Crack eggs into a bowl, add a splash of milk, salt and pepper. Whisk.",
+      "Melt butter in a non-stick pan over medium-low heat.",
+      "Pour in egg mixture. Gently fold with a spatula as it cooks.",
+      "Remove from heat while still slightly wet — residual heat will finish cooking.",
+      "Top with shredded cheese and serve immediately."
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Banana Oat Pancakes",
+    "description": "Use up overripe bananas in these fluffy, naturally sweet pancakes.",
+    "ingredients": ["banana", "oats", "eggs", "milk", "baking powder", "cinnamon"],
+    "tags": ["banana", "fruit", "oats", "egg", "eggs", "breakfast", "sweet"],
+    "time": "20 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Mash 2 ripe bananas in a bowl until smooth.",
+      "Mix in 2 eggs, 1/2 cup milk, 1 cup oats, 1 tsp baking powder, and cinnamon.",
+      "Let batter rest 5 minutes so oats absorb liquid.",
+      "Heat a lightly oiled pan over medium heat.",
+      "Pour 1/4 cup batter per pancake; cook 2-3 min per side until golden."
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Garlic Butter Pasta",
+    "description": "A simple pasta dish perfect when you have butter, garlic, and any leftover vegetables.",
+    "ingredients": ["pasta", "butter", "garlic", "parmesan", "parsley", "olive oil", "salt"],
+    "tags": ["pasta", "garlic", "butter", "cheese", "dairy", "quick", "vegetarian"],
+    "time": "20 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Cook pasta in salted boiling water according to package directions.",
+      "While pasta cooks, melt butter with olive oil in a large pan.",
+      "Add minced garlic and sauté 1-2 minutes until fragrant.",
+      "Drain pasta, reserving 1/2 cup pasta water.",
+      "Toss pasta in garlic butter, adding pasta water as needed.",
+      "Top with parmesan and parsley."
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Tomato Egg Drop Soup",
+    "description": "A comforting Chinese-style soup that uses tomatoes and eggs in minutes.",
+    "ingredients": ["tomato", "eggs", "chicken broth", "garlic", "scallion", "sesame oil", "cornstarch"],
+    "tags": ["tomato", "egg", "eggs", "soup", "quick", "dairy-free"],
+    "time": "15 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Dice tomatoes and beat eggs in a bowl.",
+      "Sauté garlic in a pot, then add tomatoes and cook 2 minutes.",
+      "Add broth and bring to a gentle boil.",
+      "Mix cornstarch with water and stir into soup to thicken slightly.",
+      "Slowly drizzle beaten eggs into simmering soup while stirring.",
+      "Finish with sesame oil and scallions."
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Yogurt Parfait",
+    "description": "Layer yogurt with fruit and granola for a fast breakfast or snack.",
+    "ingredients": ["yogurt", "berries", "granola", "honey", "banana"],
+    "tags": ["yogurt", "dairy", "fruit", "berries", "banana", "strawberry", "blueberry", "no-cook", "breakfast"],
+    "time": "5 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Spoon yogurt into a glass or bowl.",
+      "Layer with fresh or slightly overripe berries or sliced banana.",
+      "Top with granola for crunch.",
+      "Drizzle honey and serve immediately."
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Spinach & Feta Omelette",
+    "description": "A protein-packed omelette — great for spinach that needs to be used up.",
+    "ingredients": ["eggs", "spinach", "feta", "butter", "garlic", "salt", "pepper"],
+    "tags": ["egg", "eggs", "spinach", "greens", "leafy greens", "feta", "cheese", "dairy", "breakfast"],
+    "time": "12 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Wilt spinach in a pan with garlic for 1-2 minutes; set aside.",
+      "Beat 2-3 eggs with salt and pepper.",
+      "Melt butter in pan over medium heat and pour in egg mixture.",
+      "When edges set, add spinach and crumbled feta to one half.",
+      "Fold omelette over and slide onto a plate."
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Fried Rice with Leftovers",
+    "description": "Transform leftover rice and any fridge vegetables into a satisfying fried rice.",
+    "ingredients": ["rice", "eggs", "carrot", "peas", "soy sauce", "sesame oil", "garlic", "onion"],
+    "tags": ["rice", "egg", "eggs", "carrot", "vegetables", "vegetable", "onion", "peas", "quick", "dairy-free"],
+    "time": "15 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Use day-old cold rice for best results.",
+      "Scramble eggs in an oiled wok, then push to side.",
+      "Add garlic and onion, then diced carrots and peas.",
+      "Add rice and break up any clumps, stir-frying on high heat.",
+      "Drizzle soy sauce and sesame oil, toss well and serve."
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Creamy Mushroom Toast",
+    "description": "Sauté mushrooms in butter and cream for an indulgent toast topper.",
+    "ingredients": ["mushroom", "butter", "cream", "garlic", "thyme", "bread", "parsley"],
+    "tags": ["mushroom", "mushrooms", "dairy", "cream", "bread", "quick", "vegetarian"],
+    "time": "15 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Slice mushrooms and mince garlic.",
+      "Melt butter in a pan and sauté mushrooms until golden, about 5 minutes.",
+      "Add garlic and thyme, cook 1 minute.",
+      "Pour in a splash of cream and stir until slightly thickened.",
+      "Toast bread, spoon mushroom mixture on top, garnish with parsley."
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Apple Cinnamon Oatmeal",
+    "description": "Use up apples in a warm, filling breakfast bowl.",
+    "ingredients": ["apple", "oats", "milk", "cinnamon", "honey", "butter", "vanilla"],
+    "tags": ["apple", "fruit", "oats", "dairy", "milk", "breakfast", "sweet"],
+    "time": "15 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Dice apple and sauté in butter with cinnamon for 3 minutes.",
+      "In a pot, bring milk to a simmer, add oats and cook 5 minutes, stirring.",
+      "Stir in vanilla and a pinch of salt.",
+      "Pour oatmeal into a bowl and top with caramelized apple.",
+      "Drizzle with honey before serving."
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Avocado Toast",
+    "description": "The classic — perfect when avocados are just ripe and need to be eaten.",
+    "ingredients": ["avocado", "bread", "lemon", "salt", "pepper", "chili flakes"],
+    "tags": ["avocado", "fruit", "bread", "no-cook", "breakfast", "quick", "vegan"],
+    "time": "5 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Toast bread to your preferred level.",
+      "Halve and pit the avocado, scoop flesh into a bowl.",
+      "Mash avocado with a fork, add lemon juice, salt, and pepper.",
+      "Spread onto toast and sprinkle with chili flakes.",
+      "Optional: top with a fried egg or sliced tomato."
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Potato & Onion Hash",
+    "description": "Crispy pan-fried potatoes and onions — a hearty way to use up both before they sprout.",
+    "ingredients": ["potato", "onion", "butter", "oil", "garlic", "paprika", "salt", "pepper"],
+    "tags": ["potato", "potatoes", "onion", "vegetarian", "breakfast", "dairy-free"],
+    "time": "25 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Dice potatoes into small cubes (par-boil 5 min if needed to speed up cooking).",
+      "Slice onion thinly.",
+      "Heat oil and butter in a large skillet over medium-high heat.",
+      "Add potatoes, press down and let cook undisturbed 5 minutes to crisp.",
+      "Stir, add onion and garlic, cook another 8 minutes until everything is golden.",
+      "Season with paprika, salt, and pepper."
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Lemon Herb Chicken",
+    "description": "A simple pan-seared chicken perfect for chicken that needs to be cooked today.",
+    "ingredients": ["chicken", "lemon", "garlic", "olive oil", "rosemary", "thyme", "salt", "pepper"],
+    "tags": ["chicken", "meat", "protein", "lemon", "fruit", "dairy-free"],
+    "time": "25 min",
+    "difficulty": "Medium",
+    "steps": [
+      "Season chicken breasts with salt, pepper, and dried herbs.",
+      "Heat olive oil in a pan over medium-high heat.",
+      "Sear chicken 5-6 minutes per side until golden and cooked through.",
+      "In the last 2 minutes, add minced garlic and squeeze lemon over chicken.",
+      "Rest 5 minutes before slicing and serving."
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Cucumber Yogurt Salad",
+    "description": "A refreshing salad using cucumber and yogurt — great as a side or snack.",
+    "ingredients": ["cucumber", "yogurt", "garlic", "dill", "lemon", "olive oil", "salt"],
+    "tags": ["cucumber", "vegetable", "vegetables", "yogurt", "dairy", "no-cook", "salad", "quick"],
+    "time": "10 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Dice or grate cucumber, sprinkle with salt, let sit 5 min to draw out water, then squeeze dry.",
+      "Mix yogurt with minced garlic, chopped dill, and a squeeze of lemon.",
+      "Fold in cucumber.",
+      "Drizzle with olive oil and serve chilled."
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Berry Smoothie",
+    "description": "Blend berries and yogurt for a fast nutritious drink before berries go soft.",
+    "ingredients": ["berries", "yogurt", "banana", "milk", "honey"],
+    "tags": ["berries", "fruit", "strawberry", "blueberry", "raspberry", "banana", "yogurt", "dairy", "no-cook", "breakfast", "quick"],
+    "time": "5 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Add all ingredients to a blender.",
+      "Blend until smooth, about 30-60 seconds.",
+      "Taste and adjust sweetness with honey.",
+      "Pour into a glass and serve immediately."
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Minestrone-Style Veggie Soup",
+    "description": "A flexible, hearty soup for using multiple vegetables at once.",
+    "ingredients": ["onion", "carrot", "celery", "tomato", "zucchini", "pasta", "garlic", "vegetable broth", "olive oil"],
+    "tags": ["onion", "carrot", "celery", "tomato", "zucchini", "vegetables", "vegetable", "soup", "pasta", "vegan", "dairy-free"],
+    "time": "35 min",
+    "difficulty": "Medium",
+    "steps": [
+      "Dice all vegetables into small cubes.",
+      "Sauté onion and garlic in olive oil until softened.",
+      "Add carrots and celery, cook 3 minutes.",
+      "Add tomatoes, zucchini, and broth. Bring to a boil.",
+      "Add pasta and simmer 10 minutes until pasta is cooked.",
+      "Season with salt, pepper, and herbs. Serve with crusty bread."
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Cheese Quesadilla",
+    "description": "Melt cheese between tortillas with any leftover fillings for a quick meal.",
+    "ingredients": ["tortilla", "cheese", "butter", "bell pepper", "onion"],
+    "tags": ["cheese", "dairy", "bell pepper", "onion", "vegetable", "quick", "vegetarian"],
+    "time": "10 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Dice bell pepper and onion, sauté briefly until softened.",
+      "Place a tortilla in a lightly buttered pan over medium heat.",
+      "Add shredded cheese and sautéed vegetables to one half.",
+      "Fold tortilla over and cook 2-3 minutes until golden.",
+      "Flip and cook another 1-2 minutes. Slice and serve with salsa."
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Baked Potato",
+    "description": "A perfectly simple baked potato — use up potatoes nearing their end.",
+    "ingredients": ["potato", "butter", "cheese", "sour cream", "chives", "salt"],
+    "tags": ["potato", "potatoes", "cheese", "dairy", "butter", "vegetarian"],
+    "time": "50 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Preheat oven to 200°C (400°F).",
+      "Scrub potato, pierce with a fork several times.",
+      "Rub with oil and salt, place directly on oven rack.",
+      "Bake 45-60 minutes until skin is crispy and inside is fluffy.",
+      "Cut open, top with butter, cheese, sour cream, and chives."
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Sautéed Greens with Garlic",
+    "description": "A fast side for any leafy greens — spinach, kale, or chard — before they wilt.",
+    "ingredients": ["spinach", "kale", "garlic", "olive oil", "lemon", "salt", "pepper", "chili flakes"],
+    "tags": ["spinach", "kale", "greens", "leafy greens", "vegetable", "vegetables", "garlic", "vegan", "quick", "dairy-free"],
+    "time": "8 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Wash and dry greens, remove tough stems.",
+      "Heat olive oil in a wide pan over medium-high heat.",
+      "Add sliced garlic and chili flakes, sauté 1 minute.",
+      "Add greens in batches, tossing as they wilt.",
+      "Season with salt, pepper, and a squeeze of lemon."
+    ]
+  },
+  {
+    "id": "20",
+    "title": "French Toast",
+    "description": "Use bread that's going stale and eggs before they expire for a classic breakfast.",
+    "ingredients": ["bread", "eggs", "milk", "butter", "cinnamon", "vanilla", "maple syrup"],
+    "tags": ["bread", "egg", "eggs", "dairy", "milk", "breakfast", "sweet"],
+    "time": "15 min",
+    "difficulty": "Easy",
+    "steps": [
+      "Whisk together eggs, milk, cinnamon, and vanilla in a shallow dish.",
+      "Dip each bread slice in the egg mixture, coating both sides.",
+      "Melt butter in a pan over medium heat.",
+      "Cook bread slices 2-3 minutes per side until golden brown.",
+      "Serve with maple syrup, fresh fruit, or powdered sugar."
+    ]
+  }
+]
